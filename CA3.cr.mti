@@ -1,0 +1,92 @@
+{C:/Users/Shakiba/Desktop/Semester4/Computer Architecture/CA3/Register.v} {1 {vlog -work work {C:/Users/Shakiba/Desktop/Semester4/Computer Architecture/CA3/Register.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module register
+
+Top level modules:
+	register
+
+} {} {}} {C:/Users/Shakiba/Desktop/Semester4/Computer Architecture/CA3/Stack.v} {1 {vlog -work work {C:/Users/Shakiba/Desktop/Semester4/Computer Architecture/CA3/Stack.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Stack
+
+Top level modules:
+	Stack
+
+} {} {}} {C:/Users/Shakiba/Desktop/Semester4/Computer Architecture/CA3/Mux8bit2to1.v} {1 {vlog -work work {C:/Users/Shakiba/Desktop/Semester4/Computer Architecture/CA3/Mux8bit2to1.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Mux8bit2to1
+
+Top level modules:
+	Mux8bit2to1
+
+} {} {}} {C:/Users/Shakiba/Desktop/Semester4/Computer Architecture/CA3/Zero.v} {1 {vlog -work work {C:/Users/Shakiba/Desktop/Semester4/Computer Architecture/CA3/Zero.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Zero
+
+Top level modules:
+	Zero
+
+} {} {}} {C:/Users/Shakiba/Desktop/Semester4/Computer Architecture/CA3/ALU.v} {1 {vlog -work work {C:/Users/Shakiba/Desktop/Semester4/Computer Architecture/CA3/ALU.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module ALU
+
+Top level modules:
+	ALU
+
+} {} {}} {C:/Users/Shakiba/Desktop/Semester4/Computer Architecture/CA3/PC.v} {1 {vlog -work work {C:/Users/Shakiba/Desktop/Semester4/Computer Architecture/CA3/PC.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module PC
+
+Top level modules:
+	PC
+
+} {} {}} {C:/Users/Shakiba/Desktop/Semester4/Computer Architecture/CA3/Controller.v} {1 {vlog -work work {C:/Users/Shakiba/Desktop/Semester4/Computer Architecture/CA3/Controller.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Controller
+
+Top level modules:
+	Controller
+
+} {} {}} {C:/Users/Shakiba/Desktop/Semester4/Computer Architecture/CA3/Mux5bit2to1.v} {1 {vlog -work work {C:/Users/Shakiba/Desktop/Semester4/Computer Architecture/CA3/Mux5bit2to1.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Mux5bit2to1
+
+Top level modules:
+	Mux5bit2to1
+
+} {} {}} {C:/Users/Shakiba/Desktop/Semester4/Computer Architecture/CA3/TB.v} {1 {vlog -work work {C:/Users/Shakiba/Desktop/Semester4/Computer Architecture/CA3/TB.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module tb
+
+Top level modules:
+	tb
+
+} {} {}} {C:/Users/Shakiba/Desktop/Semester4/Computer Architecture/CA3/Datapath.v} {1 {vlog -work work {C:/Users/Shakiba/Desktop/Semester4/Computer Architecture/CA3/Datapath.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Datapath
+
+Top level modules:
+	Datapath
+
+} {} {}} {C:/Users/Shakiba/Desktop/Semester4/Computer Architecture/CA3/Processor.v} {1 {vlog -work work {C:/Users/Shakiba/Desktop/Semester4/Computer Architecture/CA3/Processor.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module processor
+
+Top level modules:
+	processor
+
+} {} {}} {C:/Users/Shakiba/Desktop/Semester4/Computer Architecture/CA3/ALUReg.v} {1 {vlog -work work {C:/Users/Shakiba/Desktop/Semester4/Computer Architecture/CA3/ALUReg.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module ALUReg
+
+Top level modules:
+	ALUReg
+
+} {} {}} {C:/Users/Shakiba/Desktop/Semester4/Computer Architecture/CA3/Memory.v} {1 {vlog -work work {C:/Users/Shakiba/Desktop/Semester4/Computer Architecture/CA3/Memory.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Memory
+
+Top level modules:
+	Memory
+
+} {} {}}
